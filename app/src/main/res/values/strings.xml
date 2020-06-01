@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">008-MyTodoApplication</string>
+    <string name="task_list">登録されているタスク一覧</string>
+    <string name="add_task">新しいタスクの追加</string>
+    <string name="edit_introductio">日時と内容を入力して登録ボタンを押してください</string>
+    <string name="instruction_word_list">削除は長押し、編集はボタンをタップしてください</string>
+
+    <string name="title">編集画面</string>
+    <string name="time">日時</string>
+    <string name="task">タスク</string>
+    <string name="register">登録</string>
+    <string name="back">戻る</string>
+    <string name="check_task">完了であればチェックを入れてください</string>
+
+    <string name="status_add">新しいタスクの追加</string>
+    <string name="intent_key_status">intent_key_status</string>
+
+    <string name="status_change">タスクの修正</string>
+    <string name="intent_key_time">intent_key_time</string>
+    <string name="intent_key_task">intent_key_task</string>
+    <string name="intent_key_frag">intent_key_frag</string>
+    <string name="intent_key_position">intent_key_position</string>
+
+</resources>
