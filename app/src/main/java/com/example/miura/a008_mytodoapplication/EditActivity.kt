@@ -62,6 +62,12 @@ class EditActivity : AppCompatActivity() {
             }
         }
 
+        //戻るボタンをタップした時の処理
+        buttonBack.setOnClickListener {
+            //元の画面に推移
+            finish()
+        }
+
     }
 
 
